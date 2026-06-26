@@ -13,7 +13,7 @@ year,country,tm_squad_value_eur
 2004,Barbados,300000
 2004,Belarus,7600000
 2004,Belgium,74200000
-2004,Bosnia-Herzegovina,1000000
+2004,Bosnia and Herzegovina,1000000
 2004,Brazil,176000000
 2004,Bulgaria,20750000
 2004,Burkina Faso,400000
@@ -23,9 +23,9 @@ year,country,tm_squad_value_eur
 2004,Cape Verde,4250000
 2004,Chile,19400000
 2004,Colombia,12500000
-2004,Cote d'Ivoire,59100000
+2004,Ivory Coast,59100000
 2004,Croatia,32250000
-2004,Curacao,300000
+2004,Curaçao,300000
 2004,Czech Republic,70400000
 2004,DR Congo,10050000
 2004,Denmark,44180000
@@ -47,7 +47,7 @@ year,country,tm_squad_value_eur
 2004,Hungary,7600000
 2004,Iceland,11650000
 2004,Iran,300000
-2004,Ireland,43425000
+2004,Republic of Ireland,43425000
 2004,Israel,6400000
 2004,Italy,267500000
 2004,Jamaica,700000
@@ -75,7 +75,7 @@ year,country,tm_squad_value_eur
 2004,Romania,32600000
 2004,Russia,59100000
 2004,Rwanda,350000
-2004,Saint-Martin,500000
+2004,Saint Martin,500000
 2004,Scotland,32050000
 2004,Senegal,22850000
 2004,Serbia,44900000
@@ -87,7 +87,7 @@ year,country,tm_squad_value_eur
 2004,Sweden,48750000
 2004,Switzerland,8495000
 2004,Tahiti,2500000
-2004,The Gambia,800000
+2004,Gambia,800000
 2004,Togo,6850000
 2004,Trinidad and Tobago,100000
 2004,Tunisia,7850000
@@ -109,7 +109,7 @@ year,country,tm_squad_value_eur
 2005,Austria,25150000
 2005,Belarus,11850000
 2005,Belgium,82450000
-2005,Bosnia-Herzegovina,10400000
+2005,Bosnia and Herzegovina,10400000
 2005,Brazil,228350000
 2005,Bulgaria,30500000
 2005,Burkina Faso,1750000
@@ -119,9 +119,9 @@ year,country,tm_squad_value_eur
 2005,Chile,17500000
 2005,Colombia,9650000
 2005,Congo,300000
-2005,Cote d'Ivoire,77250000
+2005,Ivory Coast,77250000
 2005,Croatia,46600000
-2005,Curacao,500000
+2005,Curaçao,500000
 2005,Cyprus,1250000
 2005,Czech Republic,72550000
 2005,DR Congo,6700000
@@ -146,7 +146,7 @@ year,country,tm_squad_value_eur
 2005,Hungary,9600000
 2005,Iceland,13700000
 2005,Iran,400000
-2005,Ireland,47900000
+2005,Republic of Ireland,47900000
 2005,Israel,900000
 2005,Italy,280000000
 2005,Jamaica,50000
@@ -186,12 +186,12 @@ year,country,tm_squad_value_eur
 2005,Sweden,50375000
 2005,Switzerland,24300000
 2005,Tahiti,3000000
-2005,The Gambia,450000
+2005,Gambia,450000
 2005,Togo,9050000
 2005,Trinidad and Tobago,500000
 2005,Tunisia,9400000
 2005,Turkey,80200000
-2005,Türkiye,50000
+2005,Turkey,50000
 2005,Ukraine,20050000
 2005,United States,15475000
 2005,Uruguay,12500000
@@ -210,7 +210,7 @@ year,country,tm_squad_value_eur
 2006,Belarus,12100000
 2006,Belgium,91600000
 2006,Benin,1100000
-2006,Bosnia-Herzegovina,5075000
+2006,Bosnia and Herzegovina,5075000
 2006,Brazil,238230000
 2006,Bulgaria,31050000
 2006,Burkina Faso,3150000
@@ -218,13 +218,13 @@ year,country,tm_squad_value_eur
 2006,Canada,3250000
 2006,Central African Republic,1750000
 2006,Chile,25650000
-2006,Chinese Taipei,200000
+2006,Taiwan,200000
 2006,Colombia,14950000
 2006,Congo,1000000
 2006,Costa Rica,1600000
-2006,Cote d'Ivoire,85950000
+2006,Ivory Coast,85950000
 2006,Croatia,41275000
-2006,Curacao,50000
+2006,Curaçao,50000
 2006,Czech Republic,72175000
 2006,DR Congo,14850000
 2006,Denmark,74675000
@@ -251,7 +251,7 @@ year,country,tm_squad_value_eur
 2006,Hungary,7450000
 2006,Iceland,14315000
 2006,Iran,400000
-2006,Ireland,51650000
+2006,Republic of Ireland,51650000
 2006,Israel,6750000
 2006,Italy,304000000
 2006,Jamaica,3100000
@@ -283,7 +283,7 @@ year,country,tm_squad_value_eur
 2006,Portugal,184250000
 2006,Romania,21725000
 2006,Russia,16100000
-2006,Saint-Martin,700000
+2006,Saint Martin,700000
 2006,Scotland,42075000
 2006,Senegal,37350000
 2006,Serbia,45450000
@@ -298,12 +298,12 @@ year,country,tm_squad_value_eur
 2006,Switzerland,29800000
 2006,Syria,500000
 2006,Tahiti,4000000
-2006,The Gambia,950000
+2006,Gambia,950000
 2006,Togo,15850000
 2006,Trinidad and Tobago,800000
 2006,Tunisia,9150000
 2006,Turkey,85420000
-2006,Türkiye,4625000
+2006,Turkey,4625000
 2006,Ukraine,28700000
 2006,United States,13850000
 2006,Uruguay,17850000
@@ -324,7 +324,7 @@ year,country,tm_squad_value_eur
 2007,Belarus,19750000
 2007,Belgium,91750000
 2007,Benin,4300000
-2007,Bosnia-Herzegovina,26060000
+2007,Bosnia and Herzegovina,26060000
 2007,Brazil,402750000
 2007,Bulgaria,44800000
 2007,Burkina Faso,5800000
@@ -334,14 +334,14 @@ year,country,tm_squad_value_eur
 2007,Cape Verde,5300000
 2007,Central African Republic,2400000
 2007,Chile,53500000
-2007,Chinese Taipei,350000
+2007,Taiwan,350000
 2007,Colombia,27400000
 2007,Comoros,450000
 2007,Congo,5000000
 2007,Costa Rica,1750000
-2007,Cote d'Ivoire,144400000
+2007,Ivory Coast,144400000
 2007,Croatia,96550000
-2007,Curacao,1700000
+2007,Curaçao,1700000
 2007,Cyprus,1400000
 2007,Czech Republic,103450000
 2007,DR Congo,20500000
@@ -372,7 +372,7 @@ year,country,tm_squad_value_eur
 2007,Hungary,15850000
 2007,Iceland,17120000
 2007,Iran,1750000
-2007,Ireland,65425000
+2007,Republic of Ireland,65425000
 2007,Israel,19950000
 2007,Italy,360000000
 2007,Jamaica,3575000
@@ -409,7 +409,7 @@ year,country,tm_squad_value_eur
 2007,Romania,58450000
 2007,Russia,126810000
 2007,Réunion,450000
-2007,Saint-Martin,350000
+2007,Saint Martin,350000
 2007,Scotland,85800000
 2007,Senegal,76600000
 2007,Serbia,118450000
@@ -425,12 +425,12 @@ year,country,tm_squad_value_eur
 2007,Syria,800000
 2007,Tahiti,3500000
 2007,Tajikistan,200000
-2007,The Gambia,3550000
+2007,Gambia,3550000
 2007,Togo,18450000
 2007,Trinidad and Tobago,9300000
 2007,Tunisia,14800000
 2007,Turkey,111000000
-2007,Türkiye,4200000
+2007,Turkey,4200000
 2007,Ukraine,77300000
 2007,United States,17450000
 2007,Uruguay,67030000
@@ -454,7 +454,7 @@ year,country,tm_squad_value_eur
 2008,Belgium,109800000
 2008,Benin,10550000
 2008,Bolivia,700000
-2008,Bosnia-Herzegovina,50750000
+2008,Bosnia and Herzegovina,50750000
 2008,Brazil,411000000
 2008,Bulgaria,56500000
 2008,Burkina Faso,10550000
@@ -464,14 +464,14 @@ year,country,tm_squad_value_eur
 2008,Cape Verde,6325000
 2008,Central African Republic,4375000
 2008,Chile,60900000
-2008,Chinese Taipei,550000
+2008,Taiwan,550000
 2008,Colombia,41900000
 2008,Comoros,1850000
 2008,Congo,9400000
 2008,Costa Rica,5100000
-2008,Cote d'Ivoire,153950000
+2008,Ivory Coast,153950000
 2008,Croatia,148000000
-2008,Curacao,2875000
+2008,Curaçao,2875000
 2008,Cyprus,2450000
 2008,Czech Republic,117150000
 2008,DR Congo,21125000
@@ -503,7 +503,7 @@ year,country,tm_squad_value_eur
 2008,Iceland,26950000
 2008,Iran,5900000
 2008,Iraq,50000
-2008,Ireland,79200000
+2008,Republic of Ireland,79200000
 2008,Israel,21425000
 2008,Italy,390500000
 2008,Jamaica,2950000
@@ -548,7 +548,7 @@ year,country,tm_squad_value_eur
 2008,Romania,99950000
 2008,Russia,193400000
 2008,Réunion,500000
-2008,Saint-Martin,2200000
+2008,Saint Martin,2200000
 2008,Saudi Arabia,250000
 2008,Scotland,105750000
 2008,Senegal,87150000
@@ -566,11 +566,11 @@ year,country,tm_squad_value_eur
 2008,Tahiti,3300000
 2008,Tajikistan,25000
 2008,Thailand,200000
-2008,The Gambia,3475000
+2008,Gambia,3475000
 2008,Togo,31750000
 2008,Tunisia,25335000
 2008,Turkey,140700000
-2008,Türkiye,6475000
+2008,Turkey,6475000
 2008,Ukraine,103750000
 2008,United States,46025000
 2008,Uruguay,104650000
@@ -594,7 +594,7 @@ year,country,tm_squad_value_eur
 2009,Belgium,147450000
 2009,Benin,16450000
 2009,Bolivia,1200000
-2009,Bosnia-Herzegovina,91550000
+2009,Bosnia and Herzegovina,91550000
 2009,Brazil,475500000
 2009,Bulgaria,61600000
 2009,Burkina Faso,15200000
@@ -605,14 +605,14 @@ year,country,tm_squad_value_eur
 2009,Central African Republic,3900000
 2009,Chad,250000
 2009,Chile,73850000
-2009,Chinese Taipei,800000
+2009,Taiwan,800000
 2009,Colombia,70650000
 2009,Comoros,3300000
 2009,Congo,5050000
 2009,Costa Rica,10500000
-2009,Cote d'Ivoire,187050000
+2009,Ivory Coast,187050000
 2009,Croatia,158650000
-2009,Curacao,4750000
+2009,Curaçao,4750000
 2009,Cyprus,2475000
 2009,Czech Republic,142150000
 2009,DR Congo,35100000
@@ -647,7 +647,7 @@ year,country,tm_squad_value_eur
 2009,Iceland,31625000
 2009,Iran,9100000
 2009,Iraq,250000
-2009,Ireland,86700000
+2009,Republic of Ireland,86700000
 2009,Israel,33450000
 2009,Italy,390000000
 2009,Jamaica,7450000
@@ -694,7 +694,7 @@ year,country,tm_squad_value_eur
 2009,Romania,88600000
 2009,Russia,228350000
 2009,Réunion,600000
-2009,Saint-Martin,4000000
+2009,Saint Martin,4000000
 2009,Saudi Arabia,1100000
 2009,Scotland,111200000
 2009,Senegal,99600000
@@ -711,12 +711,12 @@ year,country,tm_squad_value_eur
 2009,Syria,1000000
 2009,Tahiti,4700000
 2009,Tajikistan,75000
-2009,The Gambia,4450000
+2009,Gambia,4450000
 2009,Togo,37275000
 2009,Trinidad and Tobago,12295000
 2009,Tunisia,31100000
 2009,Turkey,157300000
-2009,Türkiye,16650000
+2009,Turkey,16650000
 2009,Uganda,850000
 2009,Ukraine,119150000
 2009,United States,54750000
@@ -741,7 +741,7 @@ year,country,tm_squad_value_eur
 2010,Belgium,190000000
 2010,Benin,14550000
 2010,Bolivia,1400000
-2010,Bosnia-Herzegovina,104750000
+2010,Bosnia and Herzegovina,104750000
 2010,Brazil,489500000
 2010,Bulgaria,57700000
 2010,Burkina Faso,18800000
@@ -757,9 +757,9 @@ year,country,tm_squad_value_eur
 2010,Comoros,3450000
 2010,Congo,14950000
 2010,Costa Rica,20650000
-2010,Cote d'Ivoire,193000000
+2010,Ivory Coast,193000000
 2010,Croatia,184700000
-2010,Curacao,8450000
+2010,Curaçao,8450000
 2010,Cyprus,4025000
 2010,Czech Republic,135350000
 2010,DR Congo,39150000
@@ -795,7 +795,7 @@ year,country,tm_squad_value_eur
 2010,Indonesia,600000
 2010,Iran,7400000
 2010,Iraq,800000
-2010,Ireland,103100000
+2010,Republic of Ireland,103100000
 2010,Israel,42350000
 2010,Italy,410500000
 2010,Jamaica,6375000
@@ -846,7 +846,7 @@ year,country,tm_squad_value_eur
 2010,Russia,221200000
 2010,Rwanda,800000
 2010,Réunion,600000
-2010,Saint-Martin,2800000
+2010,Saint Martin,2800000
 2010,Sao Tome and Principe,300000
 2010,Saudi Arabia,2950000
 2010,Scotland,115000000
@@ -866,12 +866,12 @@ year,country,tm_squad_value_eur
 2010,Syria,650000
 2010,Tahiti,5000000
 2010,Thailand,100000
-2010,The Gambia,4600000
+2010,Gambia,4600000
 2010,Togo,37800000
 2010,Trinidad and Tobago,13025000
 2010,Tunisia,42200000
 2010,Turkey,176100000
-2010,Türkiye,22650000
+2010,Turkey,22650000
 2010,Uganda,1200000
 2010,Ukraine,115600000
 2010,United States,58825000
@@ -898,7 +898,7 @@ year,country,tm_squad_value_eur
 2011,Benin,11825000
 2011,Bermuda,50000
 2011,Bolivia,1350000
-2011,Bosnia-Herzegovina,104800000
+2011,Bosnia and Herzegovina,104800000
 2011,Brazil,525500000
 2011,Bulgaria,57250000
 2011,Burkina Faso,27000000
@@ -910,15 +910,15 @@ year,country,tm_squad_value_eur
 2011,Chad,500000
 2011,Chile,139350000
 2011,China,600000
-2011,Chinese Taipei,1200000
+2011,Taiwan,1200000
 2011,Colombia,126000000
 2011,Comoros,7150000
 2011,Congo,20750000
 2011,Costa Rica,11750000
-2011,Cote d'Ivoire,204250000
+2011,Ivory Coast,204250000
 2011,Croatia,195500000
 2011,Cuba,250000
-2011,Curacao,10000000
+2011,Curaçao,10000000
 2011,Cyprus,4650000
 2011,Czech Republic,125300000
 2011,DR Congo,48850000
@@ -956,7 +956,7 @@ year,country,tm_squad_value_eur
 2011,Indonesia,2050000
 2011,Iran,7425000
 2011,Iraq,2100000
-2011,Ireland,104500000
+2011,Republic of Ireland,104500000
 2011,Israel,44750000
 2011,Italy,409750000
 2011,Jamaica,3600000
@@ -1010,7 +1010,7 @@ year,country,tm_squad_value_eur
 2011,Russia,211400000
 2011,Rwanda,850000
 2011,Réunion,800000
-2011,Saint-Martin,1800000
+2011,Saint Martin,1800000
 2011,Sao Tome and Principe,1050000
 2011,Saudi Arabia,325000
 2011,Scotland,119750000
@@ -1029,12 +1029,12 @@ year,country,tm_squad_value_eur
 2011,Syria,575000
 2011,Tahiti,4250000
 2011,Tajikistan,450000
-2011,The Gambia,2100000
+2011,Gambia,2100000
 2011,Togo,35725000
 2011,Trinidad and Tobago,11550000
 2011,Tunisia,47400000
 2011,Turkey,186500000
-2011,Türkiye,40150000
+2011,Turkey,40150000
 2011,Uganda,1075000
 2011,Ukraine,118500000
 2011,United Arab Emirates,400000
@@ -1062,7 +1062,7 @@ year,country,tm_squad_value_eur
 2012,Belgium,313000000
 2012,Benin,18300000
 2012,Bolivia,3100000
-2012,Bosnia-Herzegovina,110250000
+2012,Bosnia and Herzegovina,110250000
 2012,Brazil,589500000
 2012,Bulgaria,51050000
 2012,Burkina Faso,29825000
@@ -1074,15 +1074,15 @@ year,country,tm_squad_value_eur
 2012,Chad,1050000
 2012,Chile,166850000
 2012,China,2650000
-2012,Chinese Taipei,1000000
+2012,Taiwan,1000000
 2012,Colombia,182000000
 2012,Comoros,8850000
 2012,Congo,25875000
 2012,Costa Rica,35225000
-2012,Cote d'Ivoire,205800000
+2012,Ivory Coast,205800000
 2012,Croatia,195000000
 2012,Cuba,250000
-2012,Curacao,17375000
+2012,Curaçao,17375000
 2012,Cyprus,7250000
 2012,Czech Republic,126700000
 2012,DR Congo,45700000
@@ -1121,7 +1121,7 @@ year,country,tm_squad_value_eur
 2012,Indonesia,2300000
 2012,Iran,13500000
 2012,Iraq,2550000
-2012,Ireland,98000000
+2012,Republic of Ireland,98000000
 2012,Israel,55450000
 2012,Italy,421500000
 2012,Jamaica,20300000
@@ -1175,7 +1175,7 @@ year,country,tm_squad_value_eur
 2012,Russia,214900000
 2012,Rwanda,700000
 2012,Réunion,800000
-2012,Saint-Martin,1600000
+2012,Saint Martin,1600000
 2012,Sao Tome and Principe,400000
 2012,Saudi Arabia,650000
 2012,Scotland,124750000
@@ -1197,13 +1197,13 @@ year,country,tm_squad_value_eur
 2012,Tajikistan,725000
 2012,Tanzania,500000
 2012,Thailand,25000
-2012,The Gambia,2500000
+2012,Gambia,2500000
 2012,Togo,43750000
 2012,Trinidad and Tobago,10000000
 2012,Tunisia,49100000
 2012,Turkey,176600000
 2012,Turkmenistan,75000
-2012,Türkiye,68750000
+2012,Turkey,68750000
 2012,Uganda,750000
 2012,Ukraine,135200000
 2012,United Arab Emirates,150000
@@ -1232,7 +1232,7 @@ year,country,tm_squad_value_eur
 2013,Benin,14750000
 2013,Bermuda,750000
 2013,Bolivia,2350000
-2013,Bosnia-Herzegovina,115950000
+2013,Bosnia and Herzegovina,115950000
 2013,Brazil,607500000
 2013,Bulgaria,49850000
 2013,Burkina Faso,34400000
@@ -1244,15 +1244,15 @@ year,country,tm_squad_value_eur
 2013,Chad,1600000
 2013,Chile,164150000
 2013,China,4225000
-2013,Chinese Taipei,850000
+2013,Taiwan,850000
 2013,Colombia,273750000
 2013,Comoros,11950000
 2013,Congo,28700000
 2013,Costa Rica,39925000
-2013,Cote d'Ivoire,191750000
+2013,Ivory Coast,191750000
 2013,Croatia,203100000
 2013,Cuba,175000
-2013,Curacao,20600000
+2013,Curaçao,20600000
 2013,Cyprus,9700000
 2013,Czech Republic,121700000
 2013,DR Congo,69250000
@@ -1290,7 +1290,7 @@ year,country,tm_squad_value_eur
 2013,Indonesia,4100000
 2013,Iran,14850000
 2013,Iraq,3250000
-2013,Ireland,99000000
+2013,Republic of Ireland,99000000
 2013,Israel,46100000
 2013,Italy,434000000
 2013,Jamaica,22125000
@@ -1345,7 +1345,7 @@ year,country,tm_squad_value_eur
 2013,Russia,234800000
 2013,Rwanda,2150000
 2013,Réunion,600000
-2013,Saint-Martin,1100000
+2013,Saint Martin,1100000
 2013,Sao Tome and Principe,3000000
 2013,Saudi Arabia,1300000
 2013,Scotland,117500000
@@ -1366,13 +1366,13 @@ year,country,tm_squad_value_eur
 2013,Tahiti,400000
 2013,Tajikistan,1300000
 2013,Thailand,525000
-2013,The Gambia,4575000
+2013,Gambia,4575000
 2013,Togo,33375000
 2013,Trinidad and Tobago,9250000
 2013,Tunisia,49900000
 2013,Turkey,168700000
 2013,Turkmenistan,250000
-2013,Türkiye,87500000
+2013,Turkey,87500000
 2013,Uganda,1900000
 2013,Ukraine,130500000
 2013,United Arab Emirates,200000
@@ -1402,7 +1402,7 @@ year,country,tm_squad_value_eur
 2014,Bermuda,1500000
 2014,Bolivia,1700000
 2014,Bonaire,25000
-2014,Bosnia-Herzegovina,138750000
+2014,Bosnia and Herzegovina,138750000
 2014,Brazil,634000000
 2014,Bulgaria,41750000
 2014,Burkina Faso,33500000
@@ -1414,15 +1414,15 @@ year,country,tm_squad_value_eur
 2014,Chad,400000
 2014,Chile,175800000
 2014,China,5225000
-2014,Chinese Taipei,950000
+2014,Taiwan,950000
 2014,Colombia,340000000
 2014,Comoros,11300000
 2014,Congo,25650000
 2014,Costa Rica,52875000
-2014,Cote d'Ivoire,183950000
+2014,Ivory Coast,183950000
 2014,Croatia,266750000
 2014,Cuba,100000
-2014,Curacao,25000000
+2014,Curaçao,25000000
 2014,Cyprus,12100000
 2014,Czech Republic,101250000
 2014,DR Congo,79000000
@@ -1460,7 +1460,7 @@ year,country,tm_squad_value_eur
 2014,Indonesia,4950000
 2014,Iran,17400000
 2014,Iraq,6875000
-2014,Ireland,95250000
+2014,Republic of Ireland,95250000
 2014,Israel,37850000
 2014,Italy,446000000
 2014,Jamaica,26925000
@@ -1516,7 +1516,7 @@ year,country,tm_squad_value_eur
 2014,Russia,225500000
 2014,Rwanda,2300000
 2014,Réunion,500000
-2014,Saint-Martin,800000
+2014,Saint Martin,800000
 2014,Sao Tome and Principe,2900000
 2014,Saudi Arabia,2075000
 2014,Scotland,106200000
@@ -1537,12 +1537,12 @@ year,country,tm_squad_value_eur
 2014,Syria,4250000
 2014,Tajikistan,1100000
 2014,Thailand,1200000
-2014,The Gambia,5775000
+2014,Gambia,5775000
 2014,Togo,27050000
 2014,Trinidad and Tobago,8350000
 2014,Tunisia,50250000
 2014,Turkey,184500000
-2014,Türkiye,132300000
+2014,Turkey,132300000
 2014,Uganda,1950000
 2014,Ukraine,140000000
 2014,United Arab Emirates,50000
@@ -1572,7 +1572,7 @@ year,country,tm_squad_value_eur
 2015,Bermuda,1500000
 2015,Bolivia,2625000
 2015,Bonaire,100000
-2015,Bosnia-Herzegovina,142600000
+2015,Bosnia and Herzegovina,142600000
 2015,Brazil,719000000
 2015,Bulgaria,44500000
 2015,Burkina Faso,36825000
@@ -1584,15 +1584,15 @@ year,country,tm_squad_value_eur
 2015,Chad,1650000
 2015,Chile,205400000
 2015,China,8550000
-2015,Chinese Taipei,775000
+2015,Taiwan,775000
 2015,Colombia,355000000
 2015,Comoros,11250000
 2015,Congo,25575000
 2015,Costa Rica,54800000
-2015,Cote d'Ivoire,177200000
+2015,Ivory Coast,177200000
 2015,Croatia,295500000
 2015,Cuba,150000
-2015,Curacao,34750000
+2015,Curaçao,34750000
 2015,Cyprus,14550000
 2015,Czech Republic,85500000
 2015,DR Congo,116900000
@@ -1630,7 +1630,7 @@ year,country,tm_squad_value_eur
 2015,Indonesia,6825000
 2015,Iran,18000000
 2015,Iraq,5600000
-2015,Ireland,98000000
+2015,Republic of Ireland,98000000
 2015,Israel,53500000
 2015,Italy,445500000
 2015,Jamaica,45600000
@@ -1690,7 +1690,7 @@ year,country,tm_squad_value_eur
 2015,Russia,224000000
 2015,Rwanda,2450000
 2015,Réunion,450000
-2015,Saint-Martin,500000
+2015,Saint Martin,500000
 2015,San Marino,50000
 2015,Sao Tome and Principe,2250000
 2015,Saudi Arabia,300000
@@ -1714,13 +1714,13 @@ year,country,tm_squad_value_eur
 2015,Tajikistan,1000000
 2015,Tanzania,500000
 2015,Thailand,2400000
-2015,The Gambia,7150000
+2015,Gambia,7150000
 2015,Togo,24000000
 2015,Trinidad and Tobago,6200000
 2015,Tunisia,53700000
 2015,Turkey,185500000
 2015,Turkmenistan,100000
-2015,Türkiye,160550000
+2015,Turkey,160550000
 2015,Uganda,5625000
 2015,Ukraine,147000000
 2015,United Arab Emirates,1800000
@@ -1752,7 +1752,7 @@ year,country,tm_squad_value_eur
 2016,Bermuda,3000000
 2016,Bolivia,1900000
 2016,Bonaire,75000
-2016,Bosnia-Herzegovina,136250000
+2016,Bosnia and Herzegovina,136250000
 2016,Brazil,690000000
 2016,Bulgaria,34550000
 2016,Burkina Faso,34200000
@@ -1765,15 +1765,15 @@ year,country,tm_squad_value_eur
 2016,Chad,3200000
 2016,Chile,203200000
 2016,China,9300000
-2016,Chinese Taipei,625000
+2016,Taiwan,625000
 2016,Colombia,309000000
 2016,Comoros,8750000
 2016,Congo,22350000
 2016,Costa Rica,62275000
-2016,Cote d'Ivoire,213000000
+2016,Ivory Coast,213000000
 2016,Croatia,346000000
 2016,Cuba,300000
-2016,Curacao,43725000
+2016,Curaçao,43725000
 2016,Cyprus,16150000
 2016,Czech Republic,82650000
 2016,DR Congo,135500000
@@ -1812,7 +1812,7 @@ year,country,tm_squad_value_eur
 2016,Indonesia,9100000
 2016,Iran,35600000
 2016,Iraq,5450000
-2016,Ireland,108000000
+2016,Republic of Ireland,108000000
 2016,Israel,49200000
 2016,Italy,465500000
 2016,Jamaica,74475000
@@ -1871,7 +1871,7 @@ year,country,tm_squad_value_eur
 2016,Russia,204000000
 2016,Rwanda,3125000
 2016,Réunion,300000
-2016,Saint-Martin,200000
+2016,Saint Martin,200000
 2016,San Marino,50000
 2016,Sao Tome and Principe,1800000
 2016,Saudi Arabia,14100000
@@ -1894,12 +1894,12 @@ year,country,tm_squad_value_eur
 2016,Tajikistan,1100000
 2016,Tanzania,1500000
 2016,Thailand,4025000
-2016,The Gambia,10000000
+2016,Gambia,10000000
 2016,Togo,23375000
 2016,Trinidad and Tobago,4600000
 2016,Tunisia,51550000
 2016,Turkey,165750000
-2016,Türkiye,177600000
+2016,Turkey,177600000
 2016,Uganda,6200000
 2016,Ukraine,141050000
 2016,United Arab Emirates,1700000
@@ -1932,7 +1932,7 @@ year,country,tm_squad_value_eur
 2017,Bermuda,5000000
 2017,Bolivia,1525000
 2017,Bonaire,100000
-2017,Bosnia-Herzegovina,159150000
+2017,Bosnia and Herzegovina,159150000
 2017,Brazil,825000000
 2017,Bulgaria,27250000
 2017,Burkina Faso,38025000
@@ -1944,15 +1944,15 @@ year,country,tm_squad_value_eur
 2017,Chad,3050000
 2017,Chile,199300000
 2017,China,13525000
-2017,Chinese Taipei,625000
+2017,Taiwan,625000
 2017,Colombia,292800000
 2017,Comoros,8700000
 2017,Congo,19625000
 2017,Costa Rica,58925000
-2017,Cote d'Ivoire,248200000
+2017,Ivory Coast,248200000
 2017,Croatia,380500000
 2017,Cuba,1000000
-2017,Curacao,43975000
+2017,Curaçao,43975000
 2017,Cyprus,17450000
 2017,Czech Republic,125550000
 2017,DR Congo,137750000
@@ -1989,7 +1989,7 @@ year,country,tm_squad_value_eur
 2017,Indonesia,10475000
 2017,Iran,42400000
 2017,Iraq,6275000
-2017,Ireland,109500000
+2017,Republic of Ireland,109500000
 2017,Israel,41600000
 2017,Italy,669000000
 2017,Jamaica,109800000
@@ -1997,7 +1997,7 @@ year,country,tm_squad_value_eur
 2017,Jordan,400000
 2017,Kazakhstan,13250000
 2017,Kenya,28000000
-2017,"Korea, North",1600000
+2017,North Korea,1600000
 2017,"Korea, South",76200000
 2017,Kosovo,37025000
 2017,Kyrgyzstan,500000
@@ -2049,7 +2049,7 @@ year,country,tm_squad_value_eur
 2017,Russia,190800000
 2017,Rwanda,3000000
 2017,Réunion,150000
-2017,Saint-Martin,200000
+2017,Saint Martin,200000
 2017,San Marino,125000
 2017,Sao Tome and Principe,1950000
 2017,Saudi Arabia,18750000
@@ -2073,12 +2073,12 @@ year,country,tm_squad_value_eur
 2017,Tajikistan,1225000
 2017,Tanzania,3000000
 2017,Thailand,4250000
-2017,The Gambia,18450000
+2017,Gambia,18450000
 2017,Togo,29200000
 2017,Trinidad and Tobago,5050000
 2017,Tunisia,44000000
 2017,Turkey,131500000
-2017,Türkiye,193250000
+2017,Turkey,193250000
 2017,Uganda,7325000
 2017,Ukraine,132000000
 2017,United Arab Emirates,3775000
@@ -2112,7 +2112,7 @@ year,country,tm_squad_value_eur
 2018,Bermuda,5250000
 2018,Bolivia,1875000
 2018,Bonaire,175000
-2018,Bosnia-Herzegovina,189500000
+2018,Bosnia and Herzegovina,189500000
 2018,Brazil,1427000000
 2018,Bulgaria,25700000
 2018,Burkina Faso,49825000
@@ -2124,15 +2124,15 @@ year,country,tm_squad_value_eur
 2018,Chad,3250000
 2018,Chile,196250000
 2018,China,16850000
-2018,Chinese Taipei,450000
+2018,Taiwan,450000
 2018,Colombia,392500000
 2018,Comoros,19650000
 2018,Congo,17325000
 2018,Costa Rica,44450000
-2018,Cote d'Ivoire,440500000
+2018,Ivory Coast,440500000
 2018,Croatia,527500000
 2018,Cuba,2050000
-2018,Curacao,38950000
+2018,Curaçao,38950000
 2018,Cyprus,16750000
 2018,Czech Republic,167000000
 2018,DR Congo,160300000
@@ -2170,7 +2170,7 @@ year,country,tm_squad_value_eur
 2018,Indonesia,20425000
 2018,Iran,66400000
 2018,Iraq,7600000
-2018,Ireland,133000000
+2018,Republic of Ireland,133000000
 2018,Israel,56150000
 2018,Italy,854000000
 2018,Jamaica,158650000
@@ -2178,7 +2178,7 @@ year,country,tm_squad_value_eur
 2018,Jordan,1925000
 2018,Kazakhstan,19000000
 2018,Kenya,33525000
-2018,"Korea, North",5000000
+2018,North Korea,5000000
 2018,"Korea, South",102650000
 2018,Kosovo,57600000
 2018,Kyrgyzstan,1225000
@@ -2230,7 +2230,7 @@ year,country,tm_squad_value_eur
 2018,Romania,80950000
 2018,Russia,261000000
 2018,Rwanda,3200000
-2018,Saint-Martin,150000
+2018,Saint Martin,150000
 2018,San Marino,275000
 2018,Sao Tome and Principe,2100000
 2018,Saudi Arabia,17350000
@@ -2255,12 +2255,12 @@ year,country,tm_squad_value_eur
 2018,Tajikistan,1875000
 2018,Tanzania,6500000
 2018,Thailand,6075000
-2018,The Gambia,33425000
+2018,Gambia,33425000
 2018,Togo,47625000
 2018,Trinidad and Tobago,3850000
 2018,Tunisia,77550000
 2018,Turkey,68500000
-2018,Türkiye,227500000
+2018,Turkey,227500000
 2018,Uganda,8025000
 2018,Ukraine,156000000
 2018,United Arab Emirates,600000
@@ -2294,7 +2294,7 @@ year,country,tm_squad_value_eur
 2019,Bermuda,4200000
 2019,Bolivia,3825000
 2019,Bonaire,200000
-2019,Bosnia-Herzegovina,191750000
+2019,Bosnia and Herzegovina,191750000
 2019,Brazil,1505000000
 2019,Bulgaria,30800000
 2019,Burkina Faso,57300000
@@ -2306,15 +2306,15 @@ year,country,tm_squad_value_eur
 2019,Chad,4200000
 2019,Chile,166250000
 2019,China,26625000
-2019,Chinese Taipei,625000
+2019,Taiwan,625000
 2019,Colombia,411500000
 2019,Comoros,27400000
 2019,Congo,17350000
 2019,Costa Rica,33150000
-2019,Cote d'Ivoire,515500000
+2019,Ivory Coast,515500000
 2019,Croatia,516000000
 2019,Cuba,4250000
-2019,Curacao,33500000
+2019,Curaçao,33500000
 2019,Cyprus,18900000
 2019,Czech Republic,173800000
 2019,DR Congo,183500000
@@ -2353,7 +2353,7 @@ year,country,tm_squad_value_eur
 2019,Indonesia,28350000
 2019,Iran,73700000
 2019,Iraq,9175000
-2019,Ireland,152500000
+2019,Republic of Ireland,152500000
 2019,Israel,59050000
 2019,Italy,974000000
 2019,Jamaica,163650000
@@ -2361,7 +2361,7 @@ year,country,tm_squad_value_eur
 2019,Jordan,2100000
 2019,Kazakhstan,24450000
 2019,Kenya,24350000
-2019,"Korea, North",4000000
+2019,North Korea,4000000
 2019,"Korea, South",159350000
 2019,Kosovo,109150000
 2019,Kyrgyzstan,3050000
@@ -2412,7 +2412,7 @@ year,country,tm_squad_value_eur
 2019,Romania,115700000
 2019,Russia,286500000
 2019,Rwanda,2350000
-2019,Saint-Martin,325000
+2019,Saint Martin,325000
 2019,San Marino,275000
 2019,Sao Tome and Principe,1325000
 2019,Saudi Arabia,24675000
@@ -2436,13 +2436,13 @@ year,country,tm_squad_value_eur
 2019,Tajikistan,3500000
 2019,Tanzania,12000000
 2019,Thailand,9425000
-2019,The Gambia,37775000
+2019,Gambia,37775000
 2019,Togo,58300000
 2019,Trinidad and Tobago,4900000
 2019,Tunisia,93850000
 2019,Turkey,35850000
 2019,Turkmenistan,250000
-2019,Türkiye,297500000
+2019,Turkey,297500000
 2019,Uganda,10400000
 2019,Ukraine,194700000
 2019,United Arab Emirates,8425000
@@ -2476,9 +2476,9 @@ year,country,tm_squad_value_eur
 2020,Bermuda,4175000
 2020,Bolivia,6700000
 2020,Bonaire,300000
-2020,Bosnia-Herzegovina,165800000
+2020,Bosnia and Herzegovina,165800000
 2020,Brazil,1295000000
-2020,Brunei Darussalam,200000
+2020,Brunei,200000
 2020,Bulgaria,28300000
 2020,Burkina Faso,77975000
 2020,Burundi,6650000
@@ -2489,15 +2489,15 @@ year,country,tm_squad_value_eur
 2020,Chad,3225000
 2020,Chile,134600000
 2020,China,22400000
-2020,Chinese Taipei,1200000
+2020,Taiwan,1200000
 2020,Colombia,368500000
 2020,Comoros,29025000
 2020,Congo,18375000
 2020,Costa Rica,30500000
-2020,Cote d'Ivoire,458000000
+2020,Ivory Coast,458000000
 2020,Croatia,444000000
 2020,Cuba,4000000
-2020,Curacao,35425000
+2020,Curaçao,35425000
 2020,Cyprus,19050000
 2020,Czech Republic,196400000
 2020,DR Congo,180000000
@@ -2537,7 +2537,7 @@ year,country,tm_squad_value_eur
 2020,Indonesia,21950000
 2020,Iran,72950000
 2020,Iraq,10500000
-2020,Ireland,141900000
+2020,Republic of Ireland,141900000
 2020,Israel,53500000
 2020,Italy,913000000
 2020,Jamaica,156800000
@@ -2545,7 +2545,7 @@ year,country,tm_squad_value_eur
 2020,Jordan,2725000
 2020,Kazakhstan,24375000
 2020,Kenya,12575000
-2020,"Korea, North",3000000
+2020,North Korea,3000000
 2020,"Korea, South",163000000
 2020,Kosovo,110800000
 2020,Kyrgyzstan,4150000
@@ -2597,7 +2597,7 @@ year,country,tm_squad_value_eur
 2020,Romania,103700000
 2020,Russia,253700000
 2020,Rwanda,1375000
-2020,Saint-Martin,200000
+2020,Saint Martin,200000
 2020,San Marino,350000
 2020,Sao Tome and Principe,875000
 2020,Saudi Arabia,30650000
@@ -2621,13 +2621,13 @@ year,country,tm_squad_value_eur
 2020,Tajikistan,5900000
 2020,Tanzania,9600000
 2020,Thailand,9375000
-2020,The Gambia,50300000
+2020,Gambia,50300000
 2020,Togo,55850000
 2020,Trinidad and Tobago,6175000
 2020,Tunisia,70400000
 2020,Turkey,30000000
 2020,Turkmenistan,250000
-2020,Türkiye,352500000
+2020,Turkey,352500000
 2020,Uganda,11075000
 2020,Ukraine,197000000
 2020,United Arab Emirates,12050000
@@ -2661,9 +2661,9 @@ year,country,tm_squad_value_eur
 2021,Bermuda,3225000
 2021,Bolivia,12475000
 2021,Bonaire,325000
-2021,Bosnia-Herzegovina,132000000
+2021,Bosnia and Herzegovina,132000000
 2021,Brazil,1224000000
-2021,Brunei Darussalam,200000
+2021,Brunei,200000
 2021,Bulgaria,25200000
 2021,Burkina Faso,90425000
 2021,Burundi,6225000
@@ -2675,15 +2675,15 @@ year,country,tm_squad_value_eur
 2021,Chad,2425000
 2021,Chile,120800000
 2021,China,18200000
-2021,Chinese Taipei,1720000
+2021,Taiwan,1720000
 2021,Colombia,396000000
 2021,Comoros,32100000
 2021,Congo,17650000
 2021,Costa Rica,33400000
-2021,Cote d'Ivoire,465500000
+2021,Ivory Coast,465500000
 2021,Croatia,439000000
 2021,Cuba,3000000
-2021,Curacao,34250000
+2021,Curaçao,34250000
 2021,Cyprus,21950000
 2021,Czech Republic,238800000
 2021,DR Congo,212000000
@@ -2723,7 +2723,7 @@ year,country,tm_squad_value_eur
 2021,Indonesia,28200000
 2021,Iran,79750000
 2021,Iraq,15700000
-2021,Ireland,121700000
+2021,Republic of Ireland,121700000
 2021,Israel,66700000
 2021,Italy,922000000
 2021,Jamaica,173800000
@@ -2731,7 +2731,7 @@ year,country,tm_squad_value_eur
 2021,Jordan,8000000
 2021,Kazakhstan,19525000
 2021,Kenya,17200000
-2021,"Korea, North",2000000
+2021,North Korea,2000000
 2021,"Korea, South",157100000
 2021,Kosovo,96700000
 2021,Kyrgyzstan,5400000
@@ -2784,7 +2784,7 @@ year,country,tm_squad_value_eur
 2021,Romania,119500000
 2021,Russia,256000000
 2021,Rwanda,950000
-2021,Saint-Martin,350000
+2021,Saint Martin,350000
 2021,San Marino,360000
 2021,Sao Tome and Principe,650000
 2021,Saudi Arabia,35575000
@@ -2797,7 +2797,7 @@ year,country,tm_squad_value_eur
 2021,Slovenia,175600000
 2021,Somalia,325000
 2021,South Africa,28950000
-2021,Southern Sudan,150000
+2021,South Sudan,150000
 2021,Spain,1215000000
 2021,St. Kitts & Nevis,2575000
 2021,Suriname,45400000
@@ -2807,13 +2807,13 @@ year,country,tm_squad_value_eur
 2021,Tajikistan,7425000
 2021,Tanzania,5950000
 2021,Thailand,9750000
-2021,The Gambia,51450000
+2021,Gambia,51450000
 2021,Togo,54300000
 2021,Trinidad and Tobago,6100000
 2021,Tunisia,73500000
 2021,Turkey,27075000
 2021,Turkmenistan,150000
-2021,Türkiye,342500000
+2021,Turkey,342500000
 2021,Uganda,10275000
 2021,Ukraine,243500000
 2021,United Arab Emirates,17010000
@@ -2847,9 +2847,9 @@ year,country,tm_squad_value_eur
 2022,Bermuda,1650000
 2022,Bolivia,15325000
 2022,Bonaire,600000
-2022,Bosnia-Herzegovina,113600000
+2022,Bosnia and Herzegovina,113600000
 2022,Brazil,1282000000
-2022,Brunei Darussalam,200000
+2022,Brunei,200000
 2022,Bulgaria,29550000
 2022,Burkina Faso,90650000
 2022,Burundi,8675000
@@ -2861,15 +2861,15 @@ year,country,tm_squad_value_eur
 2022,Chad,2450000
 2022,Chile,118500000
 2022,China,16350000
-2022,Chinese Taipei,2150000
+2022,Taiwan,2150000
 2022,Colombia,397000000
 2022,Comoros,29350000
 2022,Congo,24300000
 2022,Costa Rica,33000000
-2022,Cote d'Ivoire,466000000
+2022,Ivory Coast,466000000
 2022,Croatia,457500000
 2022,Cuba,2500000
-2022,Curacao,32600000
+2022,Curaçao,32600000
 2022,Cyprus,22800000
 2022,Czech Republic,227000000
 2022,DR Congo,185400000
@@ -2909,7 +2909,7 @@ year,country,tm_squad_value_eur
 2022,Indonesia,28550000
 2022,Iran,78325000
 2022,Iraq,13700000
-2022,Ireland,135200000
+2022,Republic of Ireland,135200000
 2022,Israel,73900000
 2022,Italy,844000000
 2022,Jamaica,163500000
@@ -2917,7 +2917,7 @@ year,country,tm_squad_value_eur
 2022,Jordan,6510000
 2022,Kazakhstan,17100000
 2022,Kenya,23375000
-2022,"Korea, North",900000
+2022,North Korea,900000
 2022,"Korea, South",179600000
 2022,Kosovo,98100000
 2022,Kyrgyzstan,6800000
@@ -2969,7 +2969,7 @@ year,country,tm_squad_value_eur
 2022,Romania,104800000
 2022,Russia,206500000
 2022,Rwanda,1025000
-2022,Saint-Martin,350000
+2022,Saint Martin,350000
 2022,San Marino,420000
 2022,Sao Tome and Principe,325000
 2022,Saudi Arabia,37750000
@@ -2984,7 +2984,7 @@ year,country,tm_squad_value_eur
 2022,Slovenia,135400000
 2022,Somalia,600000
 2022,South Africa,26150000
-2022,Southern Sudan,150000
+2022,South Sudan,150000
 2022,Spain,1162000000
 2022,St. Kitts & Nevis,1400000
 2022,St. Lucia,300000
@@ -2995,13 +2995,13 @@ year,country,tm_squad_value_eur
 2022,Tajikistan,7400000
 2022,Tanzania,4450000
 2022,Thailand,10300000
-2022,The Gambia,49700000
+2022,Gambia,49700000
 2022,Togo,41525000
 2022,Trinidad and Tobago,7650000
 2022,Tunisia,74400000
 2022,Turkey,22200000
 2022,Turkmenistan,100000
-2022,Türkiye,382000000
+2022,Turkey,382000000
 2022,Uganda,9075000
 2022,Ukraine,286000000
 2022,United Arab Emirates,23850000
@@ -3035,9 +3035,9 @@ year,country,tm_squad_value_eur
 2023,Bermuda,900000
 2023,Bolivia,14275000
 2023,Bonaire,600000
-2023,Bosnia-Herzegovina,149500000
+2023,Bosnia and Herzegovina,149500000
 2023,Brazil,1445000000
-2023,Brunei Darussalam,200000
+2023,Brunei,200000
 2023,Bulgaria,39250000
 2023,Burkina Faso,114750000
 2023,Burundi,20900000
@@ -3049,15 +3049,15 @@ year,country,tm_squad_value_eur
 2023,Chad,2300000
 2023,Chile,117300000
 2023,China,15100000
-2023,Chinese Taipei,3150000
+2023,Taiwan,3150000
 2023,Colombia,336000000
 2023,Comoros,26800000
 2023,Congo,28350000
 2023,Costa Rica,31300000
-2023,Cote d'Ivoire,524000000
+2023,Ivory Coast,524000000
 2023,Croatia,403000000
 2023,Cuba,1900000
-2023,Curacao,34400000
+2023,Curaçao,34400000
 2023,Cyprus,23250000
 2023,Czech Republic,195700000
 2023,DR Congo,180300000
@@ -3097,7 +3097,7 @@ year,country,tm_squad_value_eur
 2023,Indonesia,30425000
 2023,Iran,65500000
 2023,Iraq,16125000
-2023,Ireland,228100000
+2023,Republic of Ireland,228100000
 2023,Israel,85300000
 2023,Italy,857000000
 2023,Jamaica,154400000
@@ -3156,7 +3156,7 @@ year,country,tm_squad_value_eur
 2023,Romania,106900000
 2023,Russia,222500000
 2023,Rwanda,1325000
-2023,Saint-Martin,450000
+2023,Saint Martin,450000
 2023,San Marino,525000
 2023,Sao Tome and Principe,475000
 2023,Saudi Arabia,32050000
@@ -3171,7 +3171,7 @@ year,country,tm_squad_value_eur
 2023,Slovenia,140300000
 2023,Somalia,475000
 2023,South Africa,43300000
-2023,Southern Sudan,150000
+2023,South Sudan,150000
 2023,Spain,1158000000
 2023,St. Kitts & Nevis,1200000
 2023,St. Lucia,300000
@@ -3182,12 +3182,12 @@ year,country,tm_squad_value_eur
 2023,Tajikistan,8300000
 2023,Tanzania,3750000
 2023,Thailand,9900000
-2023,The Gambia,52400000
+2023,Gambia,52400000
 2023,Togo,33275000
 2023,Trinidad and Tobago,14550000
 2023,Tunisia,90100000
 2023,Turkey,15275000
-2023,Türkiye,350000000
+2023,Turkey,350000000
 2023,Uganda,9200000
 2023,Ukraine,370000000
 2023,United Arab Emirates,29000000
@@ -3217,7 +3217,7 @@ year,country,tm_squad_value_eur
 2024,Benin,14050000
 2024,Bolivia,17300000
 2024,Bonaire,725000
-2024,Bosnia-Herzegovina,153200000
+2024,Bosnia and Herzegovina,153200000
 2024,Brazil,1525000000
 2024,Bulgaria,41150000
 2024,Burkina Faso,117650000
@@ -3230,15 +3230,15 @@ year,country,tm_squad_value_eur
 2024,Chad,2900000
 2024,Chile,115500000
 2024,China,14300000
-2024,Chinese Taipei,2975000
+2024,Taiwan,2975000
 2024,Colombia,396000000
 2024,Comoros,27650000
 2024,Congo,25275000
 2024,Costa Rica,42100000
-2024,Cote d'Ivoire,472000000
+2024,Ivory Coast,472000000
 2024,Croatia,366000000
 2024,Cuba,600000
-2024,Curacao,30550000
+2024,Curaçao,30550000
 2024,Cyprus,23500000
 2024,Czech Republic,225000000
 2024,DR Congo,192500000
@@ -3278,7 +3278,7 @@ year,country,tm_squad_value_eur
 2024,Indonesia,39525000
 2024,Iran,52100000
 2024,Iraq,20950000
-2024,Ireland,263300000
+2024,Republic of Ireland,263300000
 2024,Israel,100200000
 2024,Italy,907000000
 2024,Jamaica,128350000
@@ -3333,7 +3333,7 @@ year,country,tm_squad_value_eur
 2024,Romania,120700000
 2024,Russia,236500000
 2024,Rwanda,3125000
-2024,Saint-Martin,400000
+2024,Saint Martin,400000
 2024,San Marino,650000
 2024,Saudi Arabia,36100000
 2024,Scotland,307500000
@@ -3345,7 +3345,7 @@ year,country,tm_squad_value_eur
 2024,Slovenia,154800000
 2024,Somalia,875000
 2024,South Africa,47500000
-2024,Southern Sudan,175000
+2024,South Sudan,175000
 2024,Spain,1450000000
 2024,St. Kitts & Nevis,50000
 2024,Suriname,52400000
@@ -3355,11 +3355,11 @@ year,country,tm_squad_value_eur
 2024,Tajikistan,9525000
 2024,Tanzania,3200000
 2024,Thailand,11250000
-2024,The Gambia,67050000
+2024,Gambia,67050000
 2024,Togo,36450000
 2024,Trinidad and Tobago,18950000
 2024,Tunisia,79600000
-2024,Türkiye,439000000
+2024,Turkey,439000000
 2024,Uganda,8775000
 2024,Ukraine,416000000
 2024,United Arab Emirates,35950000
@@ -3390,7 +3390,7 @@ year,country,tm_squad_value_eur
 2025,Benin,13100000
 2025,Bolivia,18750000
 2025,Bonaire,500000
-2025,Bosnia-Herzegovina,146300000
+2025,Bosnia and Herzegovina,146300000
 2025,Botswana,25000
 2025,Brazil,1353000000
 2025,Bulgaria,48350000
@@ -3404,15 +3404,15 @@ year,country,tm_squad_value_eur
 2025,Chad,4500000
 2025,Chile,112100000
 2025,China,15125000
-2025,Chinese Taipei,2625000
+2025,Taiwan,2625000
 2025,Colombia,397000000
 2025,Comoros,24900000
 2025,Congo,20400000
 2025,Costa Rica,48550000
-2025,Cote d'Ivoire,551000000
+2025,Ivory Coast,551000000
 2025,Croatia,409500000
 2025,Cuba,600000
-2025,Curacao,24550000
+2025,Curaçao,24550000
 2025,Cyprus,22300000
 2025,Czech Republic,238500000
 2025,DR Congo,213200000
@@ -3452,7 +3452,7 @@ year,country,tm_squad_value_eur
 2025,Indonesia,41350000
 2025,Iran,44900000
 2025,Iraq,28750000
-2025,Ireland,279000000
+2025,Republic of Ireland,279000000
 2025,Israel,109500000
 2025,Italy,954000000
 2025,Jamaica,92150000
@@ -3507,7 +3507,7 @@ year,country,tm_squad_value_eur
 2025,Romania,131400000
 2025,Russia,263500000
 2025,Rwanda,3050000
-2025,Saint-Martin,350000
+2025,Saint Martin,350000
 2025,San Marino,685000
 2025,Sao Tome and Principe,75000
 2025,Saudi Arabia,36800000
@@ -3520,7 +3520,7 @@ year,country,tm_squad_value_eur
 2025,Slovenia,169100000
 2025,Somalia,775000
 2025,South Africa,50700000
-2025,Southern Sudan,125000
+2025,South Sudan,125000
 2025,Spain,1595000000
 2025,Suriname,49500000
 2025,Sweden,625500000
@@ -3529,11 +3529,11 @@ year,country,tm_squad_value_eur
 2025,Tajikistan,9725000
 2025,Tanzania,3650000
 2025,Thailand,11075000
-2025,The Gambia,85900000
+2025,Gambia,85900000
 2025,Togo,34635000
 2025,Trinidad and Tobago,16925000
 2025,Tunisia,70200000
-2025,Türkiye,528000000
+2025,Turkey,528000000
 2025,Uganda,9900000
 2025,Ukraine,397000000
 2025,United Arab Emirates,31275000
@@ -3563,7 +3563,7 @@ year,country,tm_squad_value_eur
 2026,Belgium,671000000
 2026,Benin,16200000
 2026,Bolivia,20150000
-2026,Bosnia-Herzegovina,166000000
+2026,Bosnia and Herzegovina,166000000
 2026,Botswana,50000
 2026,Brazil,1293000000
 2026,Bulgaria,45850000
@@ -3577,15 +3577,15 @@ year,country,tm_squad_value_eur
 2026,Chad,7000000
 2026,Chile,102800000
 2026,China,14650000
-2026,Chinese Taipei,800000
+2026,Taiwan,800000
 2026,Colombia,379000000
 2026,Comoros,26575000
 2026,Congo,15500000
 2026,Costa Rica,42850000
-2026,Cote d'Ivoire,593000000
+2026,Ivory Coast,593000000
 2026,Croatia,424000000
 2026,Cuba,600000
-2026,Curacao,19650000
+2026,Curaçao,19650000
 2026,Cyprus,22800000
 2026,Czech Republic,232000000
 2026,DR Congo,170800000
@@ -3623,7 +3623,7 @@ year,country,tm_squad_value_eur
 2026,Indonesia,40150000
 2026,Iran,36400000
 2026,Iraq,22800000
-2026,Ireland,245500000
+2026,Republic of Ireland,245500000
 2026,Israel,111600000
 2026,Italy,892000000
 2026,Jamaica,63150000
@@ -3689,7 +3689,7 @@ year,country,tm_squad_value_eur
 2026,Slovenia,177500000
 2026,Somalia,400000
 2026,South Africa,52000000
-2026,Southern Sudan,100000
+2026,South Sudan,100000
 2026,Spain,1485000000
 2026,Sudan,200000
 2026,Suriname,40350000
@@ -3699,11 +3699,11 @@ year,country,tm_squad_value_eur
 2026,Tajikistan,5525000
 2026,Tanzania,5700000
 2026,Thailand,11250000
-2026,The Gambia,87900000
+2026,Gambia,87900000
 2026,Togo,31350000
 2026,Trinidad and Tobago,12725000
 2026,Tunisia,69000000
-2026,Türkiye,515000000
+2026,Turkey,515000000
 2026,Uganda,8450000
 2026,Ukraine,333000000
 2026,United Arab Emirates,23650000
