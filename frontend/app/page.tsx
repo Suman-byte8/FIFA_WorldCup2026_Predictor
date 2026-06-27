@@ -112,7 +112,7 @@ export default function Home() {
   const [loading, setLoading]   = useState(false);
 
   useEffect(() => {
-    fetch("http://localhost:8000/teams")
+    fetch("https://world-cup-ai-api-0c3h.onrender.com/teams")
       .then((r) => r.json())
       .then((d) => {
         setTeams(d.teams);
@@ -124,7 +124,7 @@ export default function Home() {
   const handlePredict = async (e: React.FormEvent) => {
     e.preventDefault();
     setLoading(true);
-    const r = await fetch("http://localhost:8000/predict", {
+    const r = await fetch("https://world-cup-ai-api-0c3h.onrender.com/predict", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
